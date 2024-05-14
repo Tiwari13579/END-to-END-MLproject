@@ -6,10 +6,10 @@ try:
 except FileNotFoundError:
     long_description = "No README file found."
 
-__version__ = "0.0.1"
+__version__ = "0.0.0"
 
 REPO_NAME = "End-to-end-ML-Project-Implementation"
-AUTHOR_USER_NAME = "siddhanth"
+AUTHOR_USER_NAME = "siddhanath"
 SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "siddhanath7709@gmail.com"
 

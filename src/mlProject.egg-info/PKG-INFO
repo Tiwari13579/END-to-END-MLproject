@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: mlProject
-Version: 0.0.1
+Version: 0.0.0
 Summary: A small python package for an ML app
-Home-page: https://github.com/siddhanth/End-to-end-ML-Project-Implementation
-Author: siddhanth
+Home-page: https://github.com/siddhanath/End-to-end-ML-Project-Implementation
+Author: siddhanath
 Author-email: siddhanath7709@gmail.com
 License: UNKNOWN
-Project-URL: Bug Tracker, https://github.com/siddhanth/End-to-end-ML-Project-Implementation/issues
+Project-URL: Bug Tracker, https://github.com/siddhanath/End-to-end-ML-Project-Implementation/issues
 Platform: UNKNOWN
 Description-Content-Type: text/markdown
 
